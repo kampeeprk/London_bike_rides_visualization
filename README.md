@@ -8,11 +8,11 @@ Analyse employees data to answer 4 business task requirement
 - Compare the average salary of male and fenale employees per department within the certain saraly range.
 
 ### Data Set 
-- Employees data from [The Business Intelligence Analyst Course 2023](https://www.dropbox.com/s/3czfpe0njsq868q/employees_mod.sql?dl=0)
+- The data from [London bike sharing dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
 ### Tools
 - MySQL for data analysis - [SQL scripts](https://github.com/stlionnn/Employee_analysis/blob/main/Employees_SQLQuery.sql)
 - Tableau Public for data visualisation - [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Employees_analysis_dashboard/Dashboard1#1)
 
 ### Dashboard
-![image](https://github.com/stlionnn/Employee_analysis/assets/98281969/efa9a03f-9c46-40cc-94b6-f1a54c38e37a)
+![image](https://public.tableau.com/app/profile/kampee.peerakhum/viz/London_bike_rides_16883716919000/LondonBikeRides)
