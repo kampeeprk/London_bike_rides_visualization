@@ -15,4 +15,4 @@ Analyse employees data to answer 4 business task requirement
 - Tableau Public for data visualisation - [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/Employees_analysis_dashboard/Dashboard1#1)
 
 ### Dashboard
-![image](![image](https://github.com/stlionnn/London_bike_rides_visualisation/assets/98281969/3ef4781f-5456-4ca7-b49b-e2bfc2b93ce2))
+![image](https://github.com/stlionnn/London_bike_rides_visualisation/assets/98281969/3ef4781f-5456-4ca7-b49b-e2bfc2b93ce2)
