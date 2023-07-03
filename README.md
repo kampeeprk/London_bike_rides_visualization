@@ -1,14 +1,17 @@
 # London_bike_rides
 
-### About Data 
-- Analyse employees data to answer 4 business task requirement 
+### Data Set
 - The data from [London bike sharing dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
 ### Data Wrangling
-- Compare the average salary of male and fenale employees in company.
-- Compare the average salary of male and fenale employees per department within the certain saraly range.
-- [Python scripts](https://github.com/stlionnn/Employee_analysis/blob/main/Employees_SQLQuery.sql)
-- [Final data](https://github.com/stlionnn/Employee_analysis/blob/main/Employees_SQLQuery.sql)
+- Spectified the column names
+- Renamed the column to the specified name
+- Changed the `humidity` values to percentage
+- Created `seanson` and `weather` dictionary from the integers to the actual name value
+- Changed `seanson` and `weather` column data type to string
+- Mapped the value to the actual `seanson` and `weather` name
+- [Python scripts](https://github.com/stlionnn/London_bike_rides_visualisation/blob/main/london_bike.ipynb)
+- [Final data](https://github.com/stlionnn/London_bike_rides_visualization/blob/main/london_bike_final.xlsx)
 
 ### Dashboard
 Tableau Public for data visualisation [Dashboard](https://public.tableau.com/app/profile/kampee.peerakhum/viz/London_bike_rides_16883716919000/LondonBikeRides)
