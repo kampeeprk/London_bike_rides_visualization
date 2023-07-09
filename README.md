@@ -1,5 +1,9 @@
 # London_bike_rides
 
+### Requirement
+- The overall number of bike rides between various dates 
+- How does weather affect bike usage
+
 ### Data Set
 - The data from [London bike sharing dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)
 
